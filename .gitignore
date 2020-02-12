@@ -1,0 +1,8 @@
+
+*.json
+*.js
+*.project
+*.xml
+*.hash
+*.pmp
+.DS_Store
